@@ -8,19 +8,19 @@
         },
         {
             "id": 2,
-            "title": "Bill",
+            "name": "Bill",
             "surname": "Gate",
             "age": 58
         },
         {
             "id": 3,
-            "title": "Pla",
+            "name": "Pla",
             "surname": "Yuth",
             "age": 44
         },
         {
             "id": 4,
-            "title": "pu",
+            "name": "pu",
             "surname": "pongsit",
             "age": 71
         }
