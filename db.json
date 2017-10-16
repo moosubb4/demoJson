@@ -1,0 +1,28 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "name": "Steve",
+            "surname": "Jobs",
+            "age": 60
+        },
+        {
+            "id": 2,
+            "title": "Bill",
+            "surname": "Gate",
+            "age": 58
+        },
+        {
+            "id": 3,
+            "title": "Pla",
+            "surname": "Yuth",
+            "age": 44
+        },
+        {
+            "id": 4,
+            "title": "pu",
+            "surname": "pongsit",
+            "age": 71
+        }
+    ]
+}
